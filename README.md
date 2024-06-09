@@ -29,9 +29,6 @@ Over the years, I have accumulated a broad spectrum of technical skills, from ma
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![OpenAi](https://img.shields.io/badge/-AI-333333?style=flat&logo=openai)
 
 ## 📊 GitHub Stats
 
