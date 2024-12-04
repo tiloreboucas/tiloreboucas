@@ -24,11 +24,15 @@ Over the years, I have accumulated a broad spectrum of technical skills, from ma
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
+![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![AI](https://img.shields.io/badge/-AI-333333?style=flat&logo=googlecolab)
 
 ## 📊 GitHub Stats
 
