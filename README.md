@@ -36,9 +36,9 @@ Over the years, I have accumulated a broad spectrum of technical skills, from ma
 
 ## 📊 GitHub Stats
 
-![Witalo Rebouças's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiloreboucas&show_icons=true&theme=radical)
+![Witalo Rebouças's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiloreboucas&show_icons=true&theme=radical&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiloreboucas&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiloreboucas&hide_progress=false&theme=radical)
 
 ## 📝 Latest Blog Posts
 
